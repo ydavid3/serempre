@@ -12,6 +12,10 @@ php artisan passport:client --personal --name=serempre
 
 php artisan migrate --seed
 
+## Ejecutar proyecto
+
+php artisan serve
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
