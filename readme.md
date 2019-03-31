@@ -2,7 +2,7 @@
 
 ## Dependencias
 
-composer install o composer update
+composer install
 
 ## Key de autenticacion para la api
 
