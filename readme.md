@@ -1,7 +1,7 @@
 ## Comandos a ejecutar en una terminal para la ejecucion del proyecto
 
 ## Requerimiento
-PHP ^7.3 <br>
+PHP ^7.2 <br>
 Composer
 
 ## Dependencias de laravel con passport api
