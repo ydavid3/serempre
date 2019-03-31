@@ -12,7 +12,7 @@ $(document).ready(function () {
     /**
     * URL api
     */
-    urlApi = "http://192.168.0.6:8000/";
+    urlApi = "http://127.0.0.1:8000/";
 
     /**
      * routes api
