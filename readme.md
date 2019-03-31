@@ -1,8 +1,9 @@
 ## Comandos a ejecutar en una terminal para la ejecucion del proyecto
 
-## Dependencias
+## Dependencias de laravel con passport api
 
 composer install
+php artisan passport:install
 
 ## Crear base de datos serempre y ejecutar el siguiente comando
 
