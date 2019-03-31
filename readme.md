@@ -4,13 +4,13 @@
 
 composer install
 
-## Key de autenticacion para la api
-
-php artisan passport:client --personal --name=serempre
-
 ## Crear base de datos serempre y ejecutar el siguiente comando
 
 php artisan migrate --seed
+
+## Key de autenticacion para la api
+
+php artisan passport:client --personal --name=serempre
 
 ## Ejecutar proyecto
 
