@@ -2,7 +2,7 @@
 
 ## Dependencias de laravel con passport api
 
-composer install
+composer install<br>
 php artisan passport:install
 
 ## Crear base de datos serempre y ejecutar el siguiente comando
@@ -18,7 +18,7 @@ php artisan passport:client --personal --name=serempre
 php artisan serve
 
 ## Credenciales
-Usuario: Administrador
+Usuario: Administrador <br>
 Contraseña: admin2019
 
 ## Omitir guardar contraseña en el navegador al autenticarse, para que no se presenten problemas con la funcionalidad
