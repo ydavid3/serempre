@@ -16,7 +16,7 @@ php artisan passport:client --personal --name=serempre
 
 php artisan serve
 
-##Omitir guardar contraseña al autenticarse, para que no se presenten problemas con la funcionalidad
+## Omitir guardar contraseña en el navegador al autenticarse, para que no se presenten problemas con la funcionalidad
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
